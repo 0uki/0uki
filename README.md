@@ -3,9 +3,10 @@
 <h3 align="center"></h3>
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Me about: I guess I write code. Many languages ... but aren't they really just the same thing.
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning in NUFE
+- 👯 I’m looking to collaborate in everything
+- 💬 Phrase: I guess I write code. Many languages ... but aren't they really just the same thing.
+- 📫 How to reach me: 
+- Mail: loxtik@bk.ru
+- <a href="https://creativity-start.art/" target="_blank">Telegram</a> 
 
