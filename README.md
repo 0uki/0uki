@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://creativity-start.art/" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">....</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning ...
@@ -8,7 +8,3 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-
-<h1 align="center">Hi there, I'm <a href="https://creativity-start.art/" target="_blank">Max</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">....</h3>
