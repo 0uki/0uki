@@ -9,5 +9,5 @@
 - 📫 How to reach me: 
 - <a href="https://t.me/Shen1i" target="_blank">🌀Telegram</a>
 - <a href="https://t.me/Shen1i" target="_blank">💫Instagram</a>
-- 📂Mail: loxtik@bk.ru
+- 📂Mail: loxtika@yahoo.com
 
