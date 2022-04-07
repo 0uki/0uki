@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate in everything
 - 💬 Phrase: I guess I write code. Many languages ... but aren't they really just the same thing.
 - 📫 How to reach me: 
-- 📂Mail: loxtik@bk.ru
 - <a href="https://t.me/Shen1i" target="_blank">🌀Telegram</a>
 - <a href="https://t.me/Shen1i" target="_blank">💫Instagram</a>
+- 📂Mail: loxtik@bk.ru
 
