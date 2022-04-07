@@ -3,8 +3,8 @@
 <h3 align="center"></h3>
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning in NUFE
-- 👯 I’m looking to collaborate in everything
+- 🌱 I’m currently learning in NUFE.
+- 👯 I’m looking to collaborate in everything.
 - 💬 Phrase: I guess I write code. Many languages ... but aren't they really just the same thing.
 - 📫 How to reach me: 
 - <a href="https://t.me/Shen1i" target="_blank">🌀Telegram</a>
