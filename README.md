@@ -8,5 +8,5 @@
 - 💬 Phrase: I guess I write code. Many languages ... but aren't they really just the same thing.
 - 📫 How to reach me: 
 - <a href="https://t.me/Shen1i" target="_blank">🌀 Telegram</a>
-- 📂Mail: loxtika@yahoo.com
+- 📂Mail: loxtika@yahoo.com 
 
