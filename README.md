@@ -41,7 +41,7 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)]()
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)]()
 
-<a href="https://ra1nbow.xyz?ref=github">
+<a href="https://github.com/LoXtika-Cat">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LoXtika-Cat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
 <a href="https://github.com/LoXtika-Cat">
