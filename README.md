@@ -16,8 +16,8 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)]
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)]()
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]()
 [![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)]
 [![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)]
 [![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)]
