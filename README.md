@@ -50,7 +50,7 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 
 <p align="center"> 
   Visitor count<br>
-  <a href="[https://github.com/LoXtika-Cat]">
+  <a href="https://github.com/LoXtika-Cat">
     <img src="https://profile-counter.glitch.me/LoXtika-Cat/count.svg" />
   </a>
 </p>
