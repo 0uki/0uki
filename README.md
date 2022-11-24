@@ -8,13 +8,6 @@
   ---
 </div>
 <div align="center">
-  
-  ## 🎵 Spotify
-  <a href="https://open.spotify.com/user/htnuw4nt7uo5q9wgxklrd9wc3">
-    <img src="https://novatorem-ankuverindustries-gmailcom.vercel.app/api/spotify">
-  </a>
-</div>
-<div align="center">
 
 # 🌐 Socials:
 
@@ -58,6 +51,3 @@
 [![Metrics](https://metrics.lecoq.io/koderKHV?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/koderKHV)
 ![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
