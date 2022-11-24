@@ -51,6 +51,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 <p align="center"> 
   Visitor count<br>
   <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+    <img src="https://profile-counter.glitch.me/LoXtika-Cat/count.svg" />
   </a>
 </p>
