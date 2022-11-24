@@ -1,41 +1,60 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coder GIF">
-</div>
-<div align="center">
-  
-  # 💫 About Me:
-  Development of websites and web applications. Development of bots for Discord<br>Studying Web Development & Software Engineering at Sochi State University.
-  ---
-</div>
+###  Hi there, I'm ra1nbow <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-# 💻 Tech Stack:
+I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow.
 
-</div>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/raenbov)
+[![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
+[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
+[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Ra1nbow1)
 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
+
+### Languages
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ra1nbow.xyz?ref=github)
+
+### Technologies
+
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://ra1nbow.xyz?ref=github)
+
+### Other
+
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://ra1nbow.xyz?ref=github)
+
+<a href="https://ra1nbow.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+</a>
+<a href="https://ra1nbow.xyz?ref=github">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://ra1nbow.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  </a>
 </p>
-
-<div align="center">
-
-# 📊 GitHub Stats:
-[![Metrics](https://metrics.lecoq.io/koderKHV?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/koderKHV)
-![](https://github-readme-stats.vercel.app/api?username=koderKHV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-</div>
