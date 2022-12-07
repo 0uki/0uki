@@ -42,7 +42,7 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)]()
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <a href="https://github.com/LoXtika-Cat">
     <img src="https://profile-counter.glitch.me/LoXtika-Cat/count.svg" />
   </a>
