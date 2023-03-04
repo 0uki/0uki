@@ -22,7 +22,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)]()
 [![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)]()
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)]()
-[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)]()
 [![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)]()
 [![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)]()
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)]()
@@ -36,10 +35,6 @@ I'm Max, a professional **self-taughted** FullStack web developer.
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)]()
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)]()
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)]()
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)]()
-[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)]()
-[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)]()
-[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)]()
 
 <p align="center"> 
   Visitor count <br>
