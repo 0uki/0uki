@@ -2,7 +2,7 @@
 
 I'm Max, a professional **self-taughted** FullStack web developer.
 
-[![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://loxtika.xyz)
+[![](https://img.shields.io/badge/-🌈%20Website-FFF)]()
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discordapp.com/users/937701724318232647/)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/LoXtika)
 
